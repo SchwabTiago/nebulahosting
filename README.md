@@ -16,6 +16,6 @@ O layout apresenta:
 
 ---
 
-![Nebula Hosting Preview](./img/project-img.png.png)
+![Nebula Hosting Preview](./img/project-img.png)
 
 ---
